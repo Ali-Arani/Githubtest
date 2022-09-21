@@ -1,0 +1,22 @@
+{
+  "name": "githubtest",
+  "version": "1.0.0",
+  "description": "COMP229.018 code example",
+  "main": " server.js",
+  "scripts": {
+    "test": "Error"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-Arani/Githubtest.git"
+  },
+  "author": "Alireza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ali-Arani/Githubtest/issues"
+  },
+  "homepage": "https://github.com/Ali-Arani/Githubtest#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
